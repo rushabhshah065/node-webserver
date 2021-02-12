@@ -1,0 +1,1 @@
+console.log("Client side jvascript loaded!")
